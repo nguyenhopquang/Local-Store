@@ -1,3 +1,4 @@
+ # Chia sẻ [Plugin] DevVN Local Store – Find a local store
  #Local Store 
  Local Store giúp liệt kê danh sách cửa hàng, địa điểm 1 cách trực quan và thân thiện trên web của bạn thông qua google maps. Giúp người dùng tìm kiếm cửa hàng 1 cách dễ dàng. Người dùng có thể lọc theo Tỉnh, Thành phố, Quận, Huyện và tìm những của hàng gần họ nhất …
  
